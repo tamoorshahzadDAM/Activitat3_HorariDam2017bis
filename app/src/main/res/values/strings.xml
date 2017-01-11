@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Activitat3_HorariDam</string>
+
+    <string name="profesor">Profesor:</string>
+    <string name="clase">Clase:</string>
+    <string name="hora_fin">Hora Fin:</string>
+    <string name="hora_inici">Hora Inicio:</string>
+    <string name="asignatura">Asignatura:</string>
+    <string name="grup">Grupo:</string>
+    <string name="dia">Dia:</string>
+    <string name="no_disponible">No disponible</string>
+
+    <string-array name="cursos">
+        <item>A1</item>
+        <item>A2</item>
+    </string-array>
+
+    <string-array name="font">
+        <item>Sant-Serif</item>
+        <item>Serif</item>
+        <item>Monospace</item>
+        <item>DEFAULT-BOLD</item>
+
+    </string-array>
+
+    <string-array name="fondo">
+        <item>Blanco</item>
+        <item>Verde</item>
+        <item>Negro</item>
+        <item>Cyan</item>
+    </string-array>
+
+
+
+</resources>
